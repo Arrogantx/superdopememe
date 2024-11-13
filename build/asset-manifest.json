@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/static/css/main.be4d3675.css",
+    "main.js": "/static/js/main.2029d351.js",
+    "static/js/453.6d8fc2c1.chunk.js": "/static/js/453.6d8fc2c1.chunk.js",
+    "static/media/events.webm": "/static/media/events.6b253cdc12714f258f68.webm",
+    "static/media/events.mp4": "/static/media/events.502a2c0752e9090609cc.mp4",
+    "static/media/glass-of-wine.mp3": "/static/media/glass-of-wine.fa516acc023b6670d5a2.mp3",
+    "static/media/hkmidnight.mp3": "/static/media/hkmidnight.496f74f79ed8b16c95cb.mp3",
+    "static/media/bg-glitch.mp4": "/static/media/bg-glitch.ef70b519d8f98f3f444b.mp4",
+    "static/media/bg-glitch.webm": "/static/media/bg-glitch.033b18d83e12f9460655.webm",
+    "static/media/gamestart.mp3": "/static/media/gamestart.31f371aa54d6099a48e0.mp3",
+    "static/media/bg-store.avif": "/static/media/bg-store.15e1d5d8b5e199fce4b0.avif",
+    "static/media/bg.avif": "/static/media/bg.b7758070234e8ae07654.avif",
+    "static/media/crash.mp3": "/static/media/crash.b3f3d6d6d326756178c9.mp3",
+    "static/media/sword.mp3": "/static/media/sword.75c32de70946982a93e9.mp3",
+    "static/media/login-logo.png": "/static/media/login-logo.3ad1f19e61b0ae6718a2.png",
+    "static/media/coin.mp3": "/static/media/coin.f9f1bc3d8573b0b56e70.mp3",
+    "static/media/logo.avif": "/static/media/logo.426ff374ec9d51c6790d.avif",
+    "static/media/shutter.mp3": "/static/media/shutter.8e31bc6f6d0d94fae0a5.mp3",
+    "static/media/cherry.avif": "/static/media/cherry.215711234bb5e67f719c.avif",
+    "static/media/login-s.svg": "/static/media/login-s.45aac9a5c0344cb18bd305f4bdc96e2d.svg",
+    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/index.html",
+    "static/media/svgviewer-output.svg": "/static/media/svgviewer-output.12ab93d37b7051ee187b.svg",
+    "static/media/right-arrow.svg": "/static/media/right-arrow.9b22e551a31894e18f20.svg",
+    "static/media/left-arrow.svg": "/static/media/left-arrow.3e851663feb40270c0cc.svg",
+    "main.be4d3675.css.map": "/static/css/main.be4d3675.css.map",
+    "main.2029d351.js.map": "/static/js/main.2029d351.js.map",
+    "453.6d8fc2c1.chunk.js.map": "/static/js/453.6d8fc2c1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.be4d3675.css",
+    "static/js/main.2029d351.js"
+  ]
+}
